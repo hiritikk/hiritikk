@@ -2,7 +2,7 @@
 
 # I'm Hiritikk 👨🏻‍💻
 
-### Building at the edge of AI, neurotech, and software engineering.
+### Building efficient systems at the edge of AI, neurotech, and software engineering.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiritikk)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiritikk@ualberta.ca)
@@ -11,7 +11,7 @@
 
 ---
 
-I've worked with
+### Worked & Contributed to
 - Full-stack (Vue 3, Next.js, Nuxt.js, TypeScript, Supabase)
 - AI & Automation (LangChain, OpenAI API, RAG Pipelines)
 - DevOps & Cloud (Docker, AWS S3, GitHub Actions)
@@ -39,5 +39,5 @@ I've worked with
 
 🛠️ **Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,react,vue,nextjs,nodejs,pytorch,docker,aws,terraform,git,bitbucket,linux,postgres,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,react,vue,nextjs,nodejs,pytorch,docker,aws,terraform,git,bitbucket,postgres,redis)](https://skillicons.dev)
 ---
